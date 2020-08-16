@@ -24,6 +24,13 @@ Holberton School Student. :man_technologist:
 - :gem: I love to customize everything lol
 
 ---
+## Skills
+
+## References
+
+<a href="https://github.com/yolitzr"><img src="https://avatars3.githubusercontent.com/u/64231666?s=460&v=4" title="Yolit Zacarías" width="80" height="80"></a>
+<a href="https://github.com/yolitzr"><img src="https://avatars0.githubusercontent.com/u/61293641?s=460&v=4" title="Francisco J Marin A" width="80" height="80"></a>
+<a href="https://github.com/ybravo"><img src="https://avatars0.githubusercontent.com/u/47190276?s=460&u=8af906c53efef44f8b3e63a7e9e84f5eb3ff9409&v=4" title="Yenifer Bravo" width="80" height="80"></a>
 
 ## Github Data Analysis
 
