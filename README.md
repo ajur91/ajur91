@@ -28,6 +28,7 @@ Holberton School Student. :man_technologist:
 ## Social media
 
 <div align="center">
+ 
 <a href="https://www.linkedin.com/in/alberto-urbaez">
   <img align="left" alt="Alberto U. Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -43,9 +44,9 @@ Holberton School Student. :man_technologist:
 <a href="https://medium.com">
   <img align="left" alt="Alberto U. Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+
 </div>
 
----
 
 ## Social
 
