@@ -64,6 +64,13 @@ Holberton School Student. :man_technologist:
 <a href="https://github.com/yolitzr"><img src="https://avatars3.githubusercontent.com/u/64231666?s=460&v=4" title="Yolit Zacarías" width="80" height="80"></a>
 <a href="https://github.com/yolitzr"><img src="https://avatars0.githubusercontent.com/u/61293641?s=460&v=4" title="Francisco J Marin A" width="80" height="80"></a>
 <a href="https://github.com/ybravo"><img src="https://avatars0.githubusercontent.com/u/47190276?s=460&u=8af906c53efef44f8b3e63a7e9e84f5eb3ff9409&v=4" title="Yenifer Bravo" width="80" height="80"></a>
+<a href="https://github.com/joseamietta"><img src="https://avatars3.githubusercontent.com/u/16170859?s=460&u=a08b25796f83967bf142de8db46563797223ece3&v=4" title="José María Amietta" width="80" height="80"></a>
+<a href="https://github.com/FrancoMeriles"><img src="https://avatars2.githubusercontent.com/u/13789088?s=460&u=1dff31deb9f86f10497913e8bcf081b7bbbd3551&v=4" title="Franco Meriles" width="80" height="80"></a>
+<a href="https://github.com/lucasmontegu"><img src="https://avatars1.githubusercontent.com/u/38597358?s=460&u=74b4dbae896c5603b6d186cde50ec50e78a9d438&v=4" title="Lucas" width="80" height="80"></a>
+<a href="https://github.com/guada2799"><img src="https://avatars3.githubusercontent.com/u/56512809?s=460&v=4" title="Guadalupe Taborda" width="80" height="80"></a>
+<a href="https://github.com/linkinmjs"><img src="https://avatars1.githubusercontent.com/u/12588502?s=460&u=10d28cd05773b6ec4185f61818c3bf900801bb8d&v=4" title="" width="80" height="80"></a>
+
+
 
 ## Github Data Analysis
 
