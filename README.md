@@ -27,14 +27,10 @@ Holberton School Student. :man_technologist:
 
 ## Social
 
-<div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajur91&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajur91&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
-</div>
+<hr width="100%">
 
-<br/>
-<br/>
 
 ## ASII
 
@@ -46,9 +42,10 @@ Holberton School Student. :man_technologist:
 | |_/ /| |___   | |  \ \_/ // /^\ \
 \____/ \____/   \_/   \___/ \/   \/ 
 ```
-<br/>
-<br/>
 
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 16 August, 20:02 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 <p align="center"> 
   Visitors<br>
   <img src="https://profile-counter.glitch.me/ajur91/count.svg" />
