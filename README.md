@@ -44,8 +44,17 @@ Holberton School Student. :man_technologist:
 ```
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 16 August, 20:02 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+<p align="center">
+ This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 16 August, 20:02 CEST<br />
+ <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/github/forks/ajur91/ajur91" /> 
+ <img src="https://img.shields.io/github/stars/ajur91/ajur91"/> 
+ <img src="https://img.shields.io/github/followers/ajur91"/>
+ <img src="https://img.shields.io/github/watchers/ajur91/ajur91"/>
+</p>
 <p align="center"> 
   Visitors<br>
   <img src="https://profile-counter.glitch.me/ajur91/count.svg" />
