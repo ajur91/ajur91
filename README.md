@@ -13,7 +13,7 @@
 
 Full-Stack | system engineer (+6 years of experience)
 
-Actually i'm: technology area coordinator at <a href="https://github.com/25Watts">25Watts</a>
+Actually i'm technology area coordinator at <a href="https://github.com/25Watts">25Watts</a>
 
 ## About me 
 
