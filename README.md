@@ -24,39 +24,21 @@ Holberton School Student. :man_technologist:
 - :gem: I love to customize everything lol
 
 ---
-## Skills,Languages, Frameworks and Tools
+## Skills and Tools
 
 <p>
-- Skills
-</br>
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> 
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Angular%20JS-E23237?style=flat&logo=angular&logoColor=white"> 
-<img src="https://img.shields.io/badge/-React%20JS-61DAFB?style=flat&logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Vue%20JS-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white"> 
-</br>
-</br>
-- Languages
-</br>
-</br>
-- Frameworks
-</br>
-<img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"> 
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> 
-<img src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat&logo=yarn&logoColor=white">
-</br>
-</br>
-- Tools
-</br>
+	- Skills
+	</br>
+	<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-Angular%20JS-E23237?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Php-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white"> <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-MySql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
+	</br>
+	- Tools
+	</br>
+	<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"> <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat&logo=yarn&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white"> <img src="https://img.shields.io/badge/-Stack Overflow%20Text-FE7A16?style=flat&logo=stack-overflow&logoColor=white"> <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/-Apache Cordova-E8E8E8?style=flat&logo=apache-cordova&logoColor=white"><img src="https://img.shields.io/badge/-NGINX-269539?style=flat&logo=nginx&logoColor=white"> 
+	</br>
+	- SO
+	</br>
+	<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/-Linux Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white"> <img src="https://img.shields.io/badge/-Arch Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white"> <img src="https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white"> <img src="https://img.shields.io/badge/-Windows XP-003399?style=flat&logo=windows-xp&logoColor=white"> <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white">
+	</br>
 </p>
 
 ## References
