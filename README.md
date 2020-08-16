@@ -24,7 +24,40 @@ Holberton School Student. :man_technologist:
 - :gem: I love to customize everything lol
 
 ---
-## Skills
+## Skills,Languages, Frameworks and Tools
+
+<p>
+- Skills
+</br>
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> 
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Angular%20JS-E23237?style=flat&logo=angular&logoColor=white"> 
+<img src="https://img.shields.io/badge/-React%20JS-61DAFB?style=flat&logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Vue%20JS-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white"> 
+</br>
+</br>
+- Languages
+</br>
+</br>
+- Frameworks
+</br>
+<img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/-GitKraken-179287?style=flat&logo=gitkraken&logoColor=white"> 
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> 
+<img src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat&logo=yarn&logoColor=white">
+</br>
+</br>
+- Tools
+</br>
+</p>
 
 ## References
 
@@ -37,20 +70,6 @@ Holberton School Student. :man_technologist:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajur91&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajur91&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 <hr width="100%">
-
-
-## ASCII
-
-```text
- ____   _____  _____  _____ __   __
-| ___ \|  ___||_   _||  _  |\ \ / /
-| |_/ /| |__    | |  | | | | \ V / 
-| ___ \|  __|   | |  | | | | /   \ 
-| |_/ /| |___   | |  \ \_/ // /^\ \
-\____/ \____/   \_/   \___/ \/   \/ 
-```
-
-------------
 
 <p align="center">
  <img align="center" width="150" src="https://github.com/ajur91/ajur91/blob/master/assets/logo.png" /> 
