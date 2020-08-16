@@ -11,17 +11,19 @@
 <br/>
 <br/>
 
-Full-Stack | Software engineer :robot:. (In progress)
+Full-Stack | system engineer (+6 years of experience)
 
-Holberton School Student. :man_technologist:
+Actually i'm: technology area coordinator at <a href="https://github.com/25Watts">25Watts</a>
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:blue_heart: Programming
 
-- :earth_americas: I'm from Bolivar - Venezuela
-- :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- :earth_americas: I'm from Bolivar - Venezuela :venezuela:
+- :computer: I like to learn new things
+- :love_you_gesture: I love to customize everything and leave my mark
+- :man_technologist: I love using Sublime Text <img width="20" height="20" src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif">
+
 
 ---
 ## Skills and Tools
