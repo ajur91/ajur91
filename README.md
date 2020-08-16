@@ -44,10 +44,13 @@ Holberton School Student. :man_technologist:
 ```
 
 ------------
-<img align="center" width="150" src="https://github.com/ajur91/ajur91/blob/master/assets/logo.png" /> 
+
 <p align="center">
- This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 16 August, 20:02 CEST<br />
- <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
+ <img align="center" width="150" src="https://github.com/ajur91/ajur91/blob/master/assets/logo.png" /> 
+ </br>
+ Ing. Alberto Urbaez
+ <br />
+ <a href="https://albertourbaez.com/en">AlbertoUrbaez.com</a>
 </p>
 
 <p align="center">
