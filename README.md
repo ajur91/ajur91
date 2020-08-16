@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://github.com/ajur91/ajur91/blob/master/assets/logo.png">
+<img align="right" width="500" src="https://github.com/ajur91/ajur91/blob/master/assets/logo.png">
 
 # Hi, I'm Alberto U.
 
