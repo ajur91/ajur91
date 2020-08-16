@@ -1,6 +1,5 @@
 <img align="right" width="400" height="400" src="https://avatars1.githubusercontent.com/u/19798178?s=400&u=1e28cdf166d2a15df457af9a0fccc98c800750bd&v=4">
 
-<div align="center">
 ```text
  ____   _____  _____  _____ __   __
 | ___ \|  ___||_   _||  _  |\ \ / /
@@ -9,7 +8,6 @@
 | |_/ /| |___   | |  \ \_/ // /^\ \
 \____/ \____/   \_/   \___/ \/   \/ 
 ```
-</div>
 
 # Hi, I'm Alberto U.
 
@@ -25,8 +23,10 @@ Holberton School Student. :man_technologist:
 - :video_game: I like to play video games
 - :gem: I love to customize everything lol
 
+---
 
 ## Social media
+
 <div align="center">
 <a href="https://www.linkedin.com/in/alberto-urbaez">
   <img align="left" alt="Alberto U. Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -44,7 +44,10 @@ Holberton School Student. :man_technologist:
   <img align="left" alt="Alberto U. Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 </div>
+
 ---
+
+## Social
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajur91&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
